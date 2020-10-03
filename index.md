@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## About me
+I'm wokring as an AI engineer at [Innovation Center](icenter.ai) of VNPT-IT. I earned M.S in Electrical Engineering from school of [Electrical Engineering](ee.kaist.ac.kr) at [KAIST](kaist.ac.kr). My supervisor at KAIST was Prof. Chang Dong Yoo in [AIM Lab](slsp.kaist.ac.kr). 
 
-You can use the [editor on GitHub](https://github.com/cao-nv/cao-nv.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+After completing master degree, I returned to Vietnam and started my current position at VNPT-IT from 15/06/2020. I'm interesting in:
+* __scence understading__ : understanding scene in static images by building a scene graph from the image and their pair-wise relationships. 
+* __image generation__ : generating high quality output images from a structured input, e.g a scene graph. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My graduation thesis is "*Scene Graph Generation with Attended Predicate Prediction*" which merely uses a simple yet effective attention module to archive comparable performance with state-of-the-arts in predicting relationships between pairs of given objects. If you want to work with me or my company, feel free to contact me at *vancaobkhn[at]gmail.com* or *nvcao[at]vnpt.vn*. 
 
-### Markdown
+## Education
+* 02/2018-02/2020 M.S in Electrical Engineering, School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Deajeon, South Korea
+* 09/2012-08/2017 B.S in Electronics and Telecommunication, School of Electronics and Telecommunication, Hanoi University of Science and Technology (HUST), Hanoi, Vietnam
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cao-nv/cao-nv.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Thang Vu, **Cao V. Nguyen**, Trung X. Pham, Tung M. Luu, Chang D. Yoo. *Fast and efficient quality enhancement
+via desubpixel convolutional neural networks*. PIRM Challenge on Perceptual Image Enhancement on Smartphones in Proceedings of European Conference on Computer Vision (ECCV), 2018.

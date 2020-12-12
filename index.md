@@ -5,7 +5,7 @@ After completing master degree, I returned to Vietnam and started my current pos
 * __scence understading__ : understanding scene in static images by building a scene graph from the image and their pair-wise relationships. 
 * __image generation__ : generating high quality output images from a structured input, e.g a scene graph. 
 
-My graduation thesis is "*Scene Graph Generation with Attended Predicate Prediction*" which merely uses a simple yet effective attention module to archive comparable performance with state-of-the-arts in predicting relationships between pairs of given objects. If you want to work with me or my company, feel free to contact me at *vancaobkhn[at]gmail.com* or *nvcao[at]vnpt.vn*. 
+My graduation thesis is "*Scene Graph Generation with Attended Predicate Prediction*" which merely uses a simple yet effective attention module to archive comparable performance with state-of-the-arts in predicting relationships between pairs of given objects. If you are insterested in my work, feel free to contact me at *vancaobkhn[at]gmail.com* or *nvcao[at]vnpt.vn*. 
 
 ## Education
 * 02/2018-02/2020 M.S in Electrical Engineering, School of Electrical Engineering, Korea Advanced Institute of Science and Technology (KAIST), Deajeon, South Korea

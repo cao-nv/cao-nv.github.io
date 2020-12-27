@@ -2,3 +2,16 @@ theme: jekyll-theme-minimal
 title: Hi, I'm Cao
 description: Just to have some professional-like page :D 
 logo: https://cao-nv.github.io/images/profile_pic.jpg
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true

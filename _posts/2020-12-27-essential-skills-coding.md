@@ -1,4 +1,8 @@
-# Những kĩ năng cần học cùng khi viết dòng code đầu tiên
+---
+layout: post
+title:  "Những kĩ năng cần học cùng khi viết dòng code đầu tiên"
+---
+
 
 Chào tất cả các bạn bước đầu đi trên con đường làm việc với *code*, dù bạn có muốn trở thành là lập trình viên, nhà phát triển phần mềm, chuyên gia phân tích dữ liệu hay kĩ sư thiết kế vi mạch số (dùng HDL)!
 

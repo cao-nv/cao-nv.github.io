@@ -15,3 +15,13 @@ My graduation thesis is "*Scene Graph Generation with Attended Predicate Predict
 
 Thang Vu, **Cao V. Nguyen**, Trung X. Pham, Tung M. Luu, Chang D. Yoo. *Fast and efficient quality enhancement
 via desubpixel convolutional neural networks*. PIRM Challenge on Perceptual Image Enhancement on Smartphones in Proceedings of European Conference on Computer Vision (ECCV), 2018.
+
+## Posts
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      {{ post.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
